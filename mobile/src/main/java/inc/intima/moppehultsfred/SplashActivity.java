@@ -1,4 +1,4 @@
-package inc.intima.hultsfredshembygdsforening;
+package inc.intima.moppehultsfred;
 
 import android.content.Intent;
 import android.os.Bundle;
