@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
         webview = findViewById(R.id.webView);
 
         webview.setWebViewClient(new WebViewClient());
-        webview.getSettings().setJavaScriptEnabled(true);
         webview.getSettings().setDomStorageEnabled(true);
         webview.setOverScrollMode(WebView.OVER_SCROLL_NEVER);
         webview.loadUrl("https://moppehultsfred.se/");

@@ -1,4 +1,4 @@
-package inc.intima.hultsfredshembygdsforening;
+package inc.intima.moppehultsfred;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

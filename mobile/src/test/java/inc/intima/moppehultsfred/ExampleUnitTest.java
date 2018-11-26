@@ -1,4 +1,4 @@
-package inc.intima.hultsfredshembygdsforening;
+package inc.intima.moppehultsfred;
 
 import org.junit.Test;
 
