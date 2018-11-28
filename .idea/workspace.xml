@@ -2565,6 +2565,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="53" width="1547" height="880" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Android Profiler" />
